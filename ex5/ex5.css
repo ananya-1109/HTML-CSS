@@ -1,0 +1,83 @@
+.lola{
+    width:200px;
+    border-radius: 10px;
+}
+.lola1{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
+.lola2{
+    width:200px;
+    height: 200px;
+    border-radius: 200%;
+}
+
+.search-bar{
+    border-radius: 5px;
+    font-size: 18px;
+    border-width: 1px;   
+    margin-bottom: 10px;    
+}
+.search-bar2{
+    border-style: none;
+    border-radius: 6px;
+    box-shadow: 3px 3px 20px rgba(0,0,0,0.55);
+    width: 400px;
+}
+
+.email{
+    font-family: arial;
+    color: grey;
+    margin-bottom: 0px;
+    font-size: 12px;
+}
+.email-bar{
+    font-style: solid;
+    border-width: 1px;
+    border-radius: 2px;
+    width: 295px;
+}
+.text{
+    font-family: arial;
+    color: grey;
+    font-size: 12px;
+}
+.join{
+    background-color: rgb(0, 0, 186);
+    color: white;
+    font-family: arial;
+    text-align: center;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    font-size: 14px;
+    border-radius: 18px;
+    width:295px;
+    cursor: pointer;
+}
+.lola3{
+    width: 40px;
+    height: 40px;
+    border-radius:20px;
+    margin-bottom: 0px;
+    vertical-align: middle;
+}
+.happening-bar{
+    border-style: none;
+    margin-top: 0px;
+    vertical-align:middle;
+    width: 180px;
+}
+.tweet{
+    background-color: rgb(21, 122, 237);
+    color: white;
+    border-radius: 15px;
+    width: 60px;
+    font-family: arial;
+    font-size: 14px;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-style: none;
+    cursor: pointer;
+}
